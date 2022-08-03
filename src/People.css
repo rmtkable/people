@@ -1,0 +1,9 @@
+body{
+    background: skyblue;
+    transition: all 1s;
+}
+
+.person form{
+    background: lightgrey;
+    padding: 20px;
+}
